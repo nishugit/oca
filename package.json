@@ -41,7 +41,7 @@
     "babel-preset-es2016": "^6.16.0",
     "babel-preset-es2017": "^6.16.0",
     "compare-versions": "^3.0.0",
-    "debug": "~2.3.3",
+    "debug": "~2.4.4",
     "enum-support": "^0.2.0",
     "es6-promisify": "^5.0.0",
     "formidable": "^1.0.17",
